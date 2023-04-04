@@ -11,8 +11,12 @@ body {
     padding: 30px;
 }
 
-.titulo-principal {
+.titulo-principal{
     padding-left: 90px;
+}
+
+.titulo-centralizado {
+    padding-left: 79px;
 }
 
 .titulo-centralizado {
